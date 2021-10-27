@@ -1,0 +1,6 @@
+mongodb+srv://root:<password>@cluster0.q84i9.mongodb.net/test
+password root
+utilizar moongoose para interagir com o bd 
+necessário usar o comando npm install mongoose
+para conectar com o bd utilize mongodb+srv://root:<password>@cluster0.q84i9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
